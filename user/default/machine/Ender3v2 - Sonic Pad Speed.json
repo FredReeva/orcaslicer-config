@@ -1,0 +1,48 @@
+{
+    "extruder_clearance_height_to_lid": "34",
+    "extruder_clearance_height_to_rod": "34",
+    "extruder_clearance_radius": "47",
+    "from": "User",
+    "inherits": "MyKlipper 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_max_acceleration_z": [
+        "1500",
+        "200"
+    ],
+    "machine_max_jerk_e": [
+        "3",
+        "2.5"
+    ],
+    "machine_max_jerk_z": [
+        "5",
+        "0.4"
+    ],
+    "machine_max_speed_e": [
+        "30",
+        "25"
+    ],
+    "machine_max_speed_z": [
+        "30",
+        "12"
+    ],
+    "machine_start_gcode": "START_PRINT EXTRUDER_TEMP=[nozzle_temperature] BED_TEMP=[bed_temperature]\n",
+    "name": "Ender3v2 - Sonic Pad Speed",
+    "nozzle_type": "brass",
+    "print_host": "192.168.1.154",
+    "printable_area": [
+        "0x0",
+        "220x0",
+        "220x220",
+        "0x220"
+    ],
+    "printable_height": "230",
+    "printer_settings_id": "Ender3v2 - Sonic Pad Speed",
+    "retraction_length": [
+        "5"
+    ],
+    "version": "1.8.0.0",
+    "z_hop_types": [
+        "Auto Lift"
+    ]
+}

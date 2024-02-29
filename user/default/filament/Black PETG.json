@@ -1,0 +1,46 @@
+{
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "fan_max_speed": [
+        "40"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_cost": [
+        "18"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_retraction_length": [
+        "5"
+    ],
+    "filament_retraction_speed": [
+        "50"
+    ],
+    "filament_settings_id": [
+        "Black PETG"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "70"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
+    "inherits": "My Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Black PETG",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "nozzle_temperature_range_high": [
+        "250"
+    ],
+    "version": "1.8.0.0"
+}

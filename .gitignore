@@ -1,0 +1,8 @@
+# Ignore everything
+hms/
+log/
+ota/
+plugins/
+printers/
+*.cereal
+BambuNetworkEngine.conf
